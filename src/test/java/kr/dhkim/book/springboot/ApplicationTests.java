@@ -1,10 +1,10 @@
-package kr.dhkim.freelecspringboot2webservice;
+package kr.dhkim.book.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FreelecSpringboot2WebserviceApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
